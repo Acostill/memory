@@ -30,7 +30,7 @@ cardFronts.forEach(el => {
 })
 
 const player1 = {
-  name: 'Gerson',
+  name: 'Player 1',
   score: 0,
   color: '#778fcd'
 }
